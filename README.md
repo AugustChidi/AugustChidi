@@ -3,7 +3,7 @@
 🌱 I have knowledge of AWS, recently concluded a course on Linux and currently learning containerization with Docker.
 💪 I'm committed to continous learning and determined to build a career in Cloud computing and DevOps. 
 🤔 I'll appreciate any guidance that will lead me towards the above goal, and especially internship opportunities.
-📫 I can be reached via augustchidiebere@gmail.com
+📫 I can be reached via augustchidi1860@gmail.com
 <!--
 **AugustChidi/AugustChidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
